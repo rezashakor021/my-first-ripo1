@@ -19,3 +19,4 @@ pip install -r requirements.txt
 python main.py
 with sdf
 tr
+trf
