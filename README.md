@@ -20,4 +20,4 @@ python main.py
 with sdf
 
 trf
-sdfg
+sdfg redtvg
