@@ -21,5 +21,3 @@ with sdf
 
 trf
 sd
-
-w
